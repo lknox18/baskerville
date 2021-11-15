@@ -23,8 +23,7 @@ section, header, footer {
 
 /*styling typography--*/
 h2, blockquote {
-  color: #648764
-  margin: 1rem, 0rem, 0rem;
+  color: #648764; 
 }
 
 h1{
