@@ -22,10 +22,14 @@ section,header,footer {
 }
 
 /*styling typography--*/
-h2, h3 {
+h2, h3, blockquote {
   color: #648764
 }
 
 h1{
 font-family: Baskerville,cursive;
+}
+
+p, blockquote {
+  margin-bottom: 1.5rem
 }
