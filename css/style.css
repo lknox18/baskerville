@@ -49,8 +49,24 @@ blockquote {
 }
 
 cite {
-  font-size: 1.2em;
+  font-size: 0.8em;
   color: #516E51;
   font-style: normal;
+}
 
+/*--styling links--*/
+a{
+  color:#648764;
+  text-decoration:none
+}
+
+a:hover{
+  color: cadetblue;
+  border-bottom: 1px dotted;
+}
+
+/*-- Styling Nav --*/
+Nav{
+  position: fixed;
+  
 }
