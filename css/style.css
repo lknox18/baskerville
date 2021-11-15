@@ -4,7 +4,7 @@
   margin: 0;
   font-size: 100%;
   font-family: Baskerville, serif;
-  font-weight: normal;
+  font-weight: bold, italic;
   line-height: 1em;
 }
 
@@ -16,7 +16,16 @@ body {
 }
 
 section,header,footer {
-  width: 80%;l
+  width: 80%;
   Max-width: 700px;
   margin: auto;
+}
+
+/*styling typography--*/
+h2, h3 {
+  color: #648764
+}
+
+h1{
+font-family: Baskerville,cursive;  
 }
