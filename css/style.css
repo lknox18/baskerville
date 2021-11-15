@@ -17,7 +17,7 @@ body {
 
 section,header,footer {
   width: 80%;
-  Max-width: 700px;
+  max-width: 700px;
   margin: auto;
 }
 
@@ -27,5 +27,5 @@ h2, h3 {
 }
 
 h1{
-font-family: Baskerville,cursive;  
+font-family: Baskerville,cursive;
 }
