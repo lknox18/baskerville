@@ -24,12 +24,13 @@ section, header, footer {
 /*styling typography--*/
 h2, blockquote {
   color: #648764
+  margin: 1rem, 0rem, 0rem
 }
 
 h1{
 font-family: Baskerville, cursive;
 font-size: 5rem;
-margin-bottom: 2rem; 
+margin-bottom: 1.5rem;
 }
 
 p, blockquote {
