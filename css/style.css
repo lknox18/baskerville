@@ -43,5 +43,11 @@ p, blockquote {
 
 blockquote {
   font-size: 1.413rem;
-  font-family: italic;
+  font-style: italic;
+  hanging-punctuation: first;
+  text-indent: -0.60rem;
+}
+
+cite {
+  
 }
