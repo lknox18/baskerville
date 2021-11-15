@@ -61,7 +61,7 @@ a{
 }
 
 a:hover{
-  color: cadetblue;
+  color: #547057;
   border-bottom: 1px dotted;
 }
 
@@ -89,5 +89,5 @@ nav ul li{
 }
 
 nav a {
-  color: f7f7f7;
+  color: #f7f7f7;
 }
