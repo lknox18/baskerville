@@ -5,6 +5,7 @@
   font-size: 100%;
   font-weight: bold, italic;
   line-height: 1em;
+  font-family: recherche, sans-serif;
 }
 
 /*-- Main structural styling --*/
@@ -12,7 +13,6 @@
 body {
   background: #f7f7f7;
   color: #333333;
-  font-family: recherche, sans-serif;
 }
 
 section, header{
