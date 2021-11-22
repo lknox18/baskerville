@@ -3,7 +3,6 @@
   padding: 0;
   margin: 0;
   font-size: 100%;
-  font-family: Baskerville, serif;
   font-weight: bold, italic;
   line-height: 1em;
 }
@@ -12,7 +11,8 @@
 
 body {
   background: #f7f7f7;
-  color: #333333
+  color: #333333;
+  font-family: austin-pen, sans-serif;
 }
 
 section, header{
@@ -55,7 +55,7 @@ h3{
   color: #648764;
   margin: auto;
   margin-top: 1rem;
-  font-family: lobster-two; 
+  font-family: lobster-two;
 }
 
 h3 p {
