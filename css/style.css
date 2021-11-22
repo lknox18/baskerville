@@ -155,3 +155,8 @@ footer p {
 li{
   color: #f7f7f7;
 }
+
+footer a{
+  font-family: baskerville-poster-pt, serif;
+  font-size: 1.5rem;
+}
