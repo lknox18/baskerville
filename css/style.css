@@ -13,6 +13,7 @@ body {
   background: #f7f7f7;
   color: #333333;
   font-family: forma-djr-display, sans-serif;
+
 }
 
 section, header{
@@ -42,7 +43,7 @@ header h2{
 }
 
 header p{
-  font-size:1.3rem;
+  font-size:1.2rem;
 }
 
 h2{
@@ -64,7 +65,6 @@ h3 p {
   font-size: 0.75rem;
   margin: 4em 0 3em 0;
   font-style: italic;
-  font-family: forma-djr-display, sans-serif;
 }
 
 p, blockquote {
@@ -85,6 +85,8 @@ cite {
   color: #516E51;
   font-style: normal;
 }
+
+p{letter-spacing: 2.5px}
 
 /*-- styling links --*/
 a{
