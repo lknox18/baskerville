@@ -1,6 +1,7 @@
 .connections{
     position: relative;
-    margin: 0 auto;
+    margin-left: 0rem;
+    color: #5E7C60;
   }
   .connections ul{
     margin: 0;
@@ -10,7 +11,7 @@
     margin: 0 10px;
     padding: 0;
     list-style: none;
-    display: inline-block;  
+    display: inline-block;
   }
   .connections a:link{
     border-bottom: none;
@@ -22,16 +23,15 @@
   .connections a:hover img,
   .connections a:hover svg{
     border-bottom: none;}
-  
-  .connections svg {
-        margin: 2em auto;}
-  
-  .connections a:hover svg path {
-        fill: #FFBBFC;
-        transition: all 0.2s ease-in-out;}
-  
-  footer .connections a:hover svg path {
-          fill:  #FFBBFC;
-          transition: all 0.2s ease-in-out;}
-  
 
+  .connections svg {
+        margin: 2em auto;
+  }
+
+  .connections a:hover svg path {
+        fill: #9FD4A4;
+        transition: all 0.2s ease-in-out;}
+
+  footer .connections a:hover svg path {
+          fill:  #9FD4A4;
+          transition: all 0.2s ease-in-out;}
