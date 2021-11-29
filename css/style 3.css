@@ -22,6 +22,11 @@ section, header{
   margin: auto;
 }
 
+.gridimage{
+  display: grid;
+  grid-gap: 10px;
+  grid-template-columns: repeat (auto-fill,minmax (340px, 1fr));
+}
 /*-- styling typography --*/
 h2, blockquote {
   color: #648764;
