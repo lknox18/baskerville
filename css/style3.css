@@ -28,6 +28,10 @@ section, header{
   grid-template-columns: repeat(auto-fill, minmax(340px, 1fr))
 
 }
+
+.indent{
+  padding-left: 4em;
+}
 /*-- styling typography --*/
 h2, blockquote {
   color: #648764;
