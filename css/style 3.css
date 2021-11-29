@@ -1,0 +1,169 @@
+/*-- CSS Reset --*/
+*{
+  padding: 0;
+  margin: 0;
+  font-size: 100%;
+  font-weight: bold, italic;
+  line-height: 1em;
+}
+
+/*-- Main structural styling --*/
+
+body {
+  background: #f7f7f7;
+  color: #333333;
+  font-family: forma-djr-display, sans-serif;
+
+}
+
+section, header{
+  width: 80%;
+  max-width: 700px;
+  margin: auto;
+}
+
+/*-- styling typography --*/
+h2, blockquote {
+  color: #648764;
+}
+
+h1{
+font-family: baskerville-poster-pt, serif;
+font-weight: bold;
+font-size: 5rem;
+margin-bottom: 2rem;
+margin-top: 1.5em;
+}
+
+header h2{
+  font-size: 2.827rem;
+  font-style: italic;
+  margin-bottom: 1rem;
+  margin-top: 0;
+}
+
+header p{
+  font-size:1.2rem;
+}
+
+h2{
+  font-size: 2rem;
+  margin: 2em 0em 0.5em 0em;
+  font-family: baskerville-poster-pt, serif;
+}
+
+h3{
+  font-size: 1.5rem;
+  color: #648764;
+  margin: auto;
+  margin-top: 1rem;
+  font-family: baskerville-poster-pt, serif;
+}
+
+h3 p {
+  text-align: left;
+  font-size: 0.75rem;
+  margin: 4em 0 3em 0;
+  font-style: italic;
+}
+
+p, blockquote {
+  margin-bottom: 1.5rem;
+  line-height: 1.4;
+}
+
+blockquote {
+  font-size: 1.413rem;
+  font-style: italic;
+  hanging-punctuation: first;
+  text-indent: -0.60rem;
+  font-family: baskerville-poster-pt, serif;
+}
+
+cite {
+  font-size: 0.8em;
+  color: #516E51;
+  font-style: normal;
+}
+
+p{letter-spacing: 2.5px}
+
+/*-- styling links --*/
+a{
+  color:#648764;
+  text-decoration:none
+}
+
+a:hover{
+  color: #547057;
+  border-bottom: 1px dotted;
+}
+
+/*-- Styling Nav --*/
+nav{
+  position: fixed;
+  top: 0;
+  left: 0;
+  margin: 0;
+  width: 100%;
+  background: #9FD4A4;
+  padding: 2em 0;
+  font-size: 0.9em
+}
+
+nav ul{
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 1px
+}
+
+nav ul li{
+  display: inline;
+  margin: 20px;
+}
+
+nav a {
+  color: #f7f7f7;
+}
+
+nav a{
+  border-bottom: none;
+  color: #f7f7f7;
+  transition: all 0.5s ease-in-out;
+}
+
+hr{
+  margin: 1.5rem;
+  color: #648764;
+}
+
+footer{
+  text-align: center;
+  font-size: 0.75rem;
+  margin: 4em 0 3em 0;
+  font-weight: bold;
+}
+
+footer p {
+  text-align: center;
+  font-size: 0.75rem;
+  margin: 0em 0 3em 0;
+  font-weight: normal;
+  font-family: forma-djr-display, sans-serif;
+}
+
+nav li{
+  color: #f7f7f7;
+}
+
+footer a{
+  font-family: baskerville-poster-pt, serif;
+  font-size: 1.5rem;
+}
+
+img{
+  display: block;
+  margin: 4em 0;
+  padding: 0;
+  max-width: 100%;
+}
